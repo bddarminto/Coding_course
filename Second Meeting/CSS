@@ -1,0 +1,7 @@
+em {color: red;}
+div {color: blue;}
+h1 {color: brown;}
+body {background: pink;}
+.intro{background: yellow;
+border-radius: 30px;}
+.important{color: purple;}
